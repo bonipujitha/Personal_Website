@@ -1,3 +1,6 @@
+
+
+
 body {
   font-family: sans-serif;
   margin: 0;
@@ -81,11 +84,20 @@ header {
   line-height: 1.5em;
 }
 
-.resume {
+.education {
   padding: 50px;
 }
 
-.resume h2 {
+.education h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.internships {
+  padding: 50px;
+}
+
+.internships h2 {
   font-size: 2em;
   margin-bottom: 20px;
 }
@@ -99,13 +111,9 @@ header {
   margin-bottom: 20px;
 }
 
-.interests ul {
-  list-style: none;
-  padding: 0;
-}
-
-.interests li {
-  margin-bottom: 10px;
+.interests p {
+  font-size: 1.2em;
+  line-height: 1.5em;
 }
 
 .contact {
@@ -128,5 +136,3 @@ footer {
   padding: 20px;
   text-align: center;
 }
-
-
