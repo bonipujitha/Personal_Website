@@ -76,9 +76,9 @@ header {
 }
 
 .about h2 {
-  font-size: 2em;
-  margin-bottom: 20px;
+  text-align: center;
 }
+
 
 .about p {
   font-size: 1.2em;
