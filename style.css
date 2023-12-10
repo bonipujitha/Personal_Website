@@ -1,25 +1,25 @@
-
-
-
 body {
   font-family: sans-serif;
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  width: 80%;
+  padding: 20px;
 }
 
 header {
+  background-color: #800080;
+  color: #fff;
   padding: 20px;
   text-align: center;
 }
 
 .container {
-  width: 80%;
   margin: 0 auto;
 }
 
 .logo h1 {
   font-size: 3em;
   color: #fff;
+  margin: 0;
 }
 
 .nav-bar {
@@ -72,6 +72,7 @@ header {
 
 .about {
   padding: 50px;
+  text-align: center;
 }
 
 .about h2 {
@@ -84,8 +85,14 @@ header {
   line-height: 1.5em;
 }
 
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
 .education {
   padding: 50px;
+  text-align: center;
 }
 
 .education h2 {
@@ -95,6 +102,7 @@ header {
 
 .internships {
   padding: 50px;
+  text-align: center;
 }
 
 .internships h2 {
@@ -104,6 +112,7 @@ header {
 
 .interests {
   padding: 50px;
+  text-align: center;
 }
 
 .interests h2 {
@@ -118,6 +127,7 @@ header {
 
 .contact {
   padding: 50px;
+  text-align: center;
 }
 
 .contact h2 {
@@ -135,5 +145,6 @@ footer {
   color: #fff;
   padding: 20px;
   text-align: center;
-}</div>
+}
+
 
