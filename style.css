@@ -62,12 +62,12 @@ header {
 }
 
 .hero-image {
-  width: 50%;
+  width: 20%;
   float: right;
 }
 
 .hero-image img {
-  width: 100%;
+  width: 50%;
 }
 
 .about {
