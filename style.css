@@ -1,25 +1,25 @@
+
+
+
 body {
   font-family: sans-serif;
-  margin: 0 auto;
-  width: 80%;
-  padding: 20px;
+  margin: 0;
+  padding: 0;
 }
 
 header {
-  background-color: #800080;
-  color: #fff;
   padding: 20px;
   text-align: center;
 }
 
 .container {
+  width: 80%;
   margin: 0 auto;
 }
 
 .logo h1 {
   font-size: 3em;
   color: #fff;
-  margin: 0;
 }
 
 .nav-bar {
@@ -67,32 +67,25 @@ header {
 }
 
 .hero-image img {
-  width: 20%;
+  width: 100%;
 }
 
 .about {
-  margin: 0 auto;
-  text-align: center;
+  padding: 50px;
 }
-
 
 .about h2 {
-  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
 }
-
 
 .about p {
-  text-align: center;
-}
-
-.center-image {
-  margin: 0 auto;
-  display: block;
+  font-size: 1.2em;
+  line-height: 1.5em;
 }
 
 .education {
   padding: 50px;
-  text-align: center;
 }
 
 .education h2 {
@@ -102,7 +95,6 @@ header {
 
 .internships {
   padding: 50px;
-  text-align: center;
 }
 
 .internships h2 {
@@ -112,7 +104,6 @@ header {
 
 .interests {
   padding: 50px;
-  text-align: center;
 }
 
 .interests h2 {
@@ -127,7 +118,6 @@ header {
 
 .contact {
   padding: 50px;
-  text-align: center;
 }
 
 .contact h2 {
@@ -145,5 +135,5 @@ footer {
   color: #fff;
   padding: 20px;
   text-align: center;
-}
+}</div>
 
